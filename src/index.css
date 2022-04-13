@@ -14,3 +14,25 @@ body {
 #CustomizationContent{
   display:none;
 }
+
+table {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td,th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+td{
+  background-color: #a0a8a5;
+}
+
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #a0a8a5;
+}
