@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CSCI39548-Assignment-3/static/css/main.00b769ad.css",
+    "main.js": "/CSCI39548-Assignment-3/static/js/main.0ff139ac.js",
+    "index.html": "/CSCI39548-Assignment-3/index.html",
+    "main.00b769ad.css.map": "/CSCI39548-Assignment-3/static/css/main.00b769ad.css.map",
+    "main.0ff139ac.js.map": "/CSCI39548-Assignment-3/static/js/main.0ff139ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b769ad.css",
+    "static/js/main.0ff139ac.js"
+  ]
+}
